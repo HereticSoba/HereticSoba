@@ -71,7 +71,6 @@ Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologi
 
 ## 💻 Featured Projects
 
-- 📱 **Movie Review Android App**
 - 🛒 **Mesajil Mobile E-Commerce**
 - 🌐 **Spring Boot REST APIs**
 - 🐳 **Dockerized Microservices**
