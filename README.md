@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=220&section=header&text=HereticSoba&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:990000&height=250&text=HereticSoba&fontColor=E50914&fontSize=55&animation=fadeIn"/>
 </p>
 
 <h2 align="center">👋 Hi, I'm Diego</h2>
 
 <h3 align="center">
-System Development Student | Backend Developer | Android Developer
+Code | Coffee | Rock
 </h3>
 
 <p align="center">
