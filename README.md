@@ -44,23 +44,11 @@ Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologi
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HereticSoba&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HereticSoba&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HereticSoba&theme=tokyonight"/>
 
 </p>
 
