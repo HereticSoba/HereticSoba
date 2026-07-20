@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=220&section=header&text=HereticSoba&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h2 align="center">Hi 👋, I'm Diego Solórzano</h2>
+<h2 align="center">👋 Hi, I'm Diego</h2>
 
 <h3 align="center">
 System Development Student | Backend Developer | Android Developer
@@ -17,7 +17,7 @@ Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologi
 
 ## 🚀 About Me
 
-- 🎓 System Development Student at **IDAT**
+- 🎓 System Development Student.
 - 📱 Android Developer with **Kotlin**
 - 🌱 Currently learning **Microservices, Docker, and Cloud Computing**
 - 💡 Interested in **Backend Development** and **Mobile Apps**
