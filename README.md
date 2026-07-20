@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:990000&height=250&text=HereticSoba&fontColor=E50914&fontSize=55&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=250&section=header&text=HereticSoba&fontSize=60&fontColor=E50914&animation=fadeIn&fontAlignY=40&desc=Code%20•%20Coffee%20•%20Metal&descAlignY=63&descSize=20"/>
 </p>
 
 <h2 align="center">👋 Hi, I'm Diego</h2>
 
-<h3 align="center">
-Code | Coffee | Rock
-</h3>
 
 <p align="center">
 Passionate about building mobile applications, REST APIs, and scalable backend solutions.
