@@ -133,7 +133,7 @@ Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologi
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HereticSoba&theme=tokyonight"/>
+<a href="https://github.com/HereticSoba?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=HereticSoba&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@HereticSoba's github-readme-streak-stats"/></a>
 
 </p>
 
