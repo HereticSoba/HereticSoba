@@ -50,22 +50,22 @@ Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologi
 </td>
 
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48"/>
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65"/>
 <br>Git
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65"/>
 <br>CSS
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
-<br>Node.js
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+  <br>Docker
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/>
 <br>VS Code
 </td>
 </tr>
@@ -98,8 +98,8 @@ Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologi
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/>
-<br>Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
+<br>Node.js
 </td>
 
 <td align="center" width="96">
