@@ -120,21 +120,21 @@ Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologi
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+ <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=HereticSoba&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=HereticSoba&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HereticSoba&theme=tokyonight"/>
 
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
- <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=HereticSoba&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=HereticSoba&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
 
 ---
