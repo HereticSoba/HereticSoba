@@ -24,23 +24,99 @@ Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologi
 
 ## 🛠 Languages & Tools
 
-<p align="left">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45"/>
+<table>
 
-</p>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/>
+<br>Java
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/>
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65"/>
+<br>C#
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/>
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48"/>
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
+<br>CSS
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
+<br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
+<br>VS Code
+</td>
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48"/>
+<br>Kotlin
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48"/>
+<br>Android
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48"/>
+<br>Spring
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48"/>
+<br>.NET
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+<br>SQL Server
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/>
+<br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48"/>
+<br>Postman
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/>
+<br>Visual Studio
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
