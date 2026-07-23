@@ -14,7 +14,7 @@ Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologi
 
 ## 🚀 About Me
 
-- 🎓 System Development Student.
+- 🎓 Software Development Student.
 - 📱 Android Developer with **Kotlin**
 - 🌱 Currently learning **Microservices, Docker, and Cloud Computing**
 - 💡 Interested in **Backend Development** and **Mobile Apps**
