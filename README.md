@@ -1,6 +1,4 @@
-<!-- ============================================================ -->
-<!--                        H E A D E R                           -->
-<!-- ============================================================ -->
+<!-- Header -->
 <p align="center">
   <img src="./assets/header.svg" alt="HereticSoba — Code • Coffee • Metal" width="100%"/>
 </p>
@@ -11,7 +9,7 @@
 
 <p align="center">
   Passionate about building mobile applications, REST APIs, and scalable backend solutions.<br>
-  Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologies.
+  Currently expanding my skills in NoSQL, .NET, Azure and Cloud technologies.
 </p>
 
 <p align="center">
@@ -27,28 +25,23 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,50:A855F7,100:E9D5FF&height=4&section=header"/>
 </p>
 
-<!-- ============================================================ -->
-<!--                       A B O U T   M E                        -->
-<!-- ============================================================ -->
+<!-- About me -->
 <p align="center">
   <img src="./assets/headers/about.svg" alt="About Me" width="900"/>
 </p>
 
 <blockquote>
-  🎓 Software Development Student.<br><br>
+  💻 Fullstack developer.<br><br>
   📱 Android Developer with <b>Kotlin</b><br><br>
-  🌱 Currently learning <b>Microservices, Docker, and Cloud Computing</b><br><br>
-  💡 Interested in <b>Backend Development</b> and <b>Mobile Apps</b><br><br>
-  🎯 Goal: Become a Full Stack Software Engineer
+  🌱 Currently learning <b>NoSQL, Web Design, and Cloud Computing</b><br><br>
+  💡 Interested in <b>Backend Development</b> and <b>Mobile Apps</b>.<br><br>
 </blockquote>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E9D5FF,50:A855F7,100:7B2FF7&height=4&section=header"/>
 </p>
 
-<!-- ============================================================ -->
-<!--                  L A N G U A G E S  &  T O O L S             -->
-<!-- ============================================================ -->
+<!-- Languages and tools -->
 <p align="center">
   <img src="./assets/headers/tools.svg" alt="Languages &amp; Tools" width="900"/>
 </p>
@@ -61,9 +54,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,50:A855F7,100:E9D5FF&height=4&section=header"/>
 </p>
 
-<!-- ============================================================ -->
-<!--                 G I T H U B   S T A T I S T I C S            -->
-<!-- ============================================================ -->
+<!-- Statistics -->
 <p align="center">
   <img src="./assets/headers/stats.svg" alt="GitHub Statistics" width="900"/>
 </p>
@@ -77,9 +68,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E9D5FF,50:A855F7,100:7B2FF7&height=4&section=header"/>
 </p>
 
-<!-- ============================================================ -->
-<!--                     G I T H U B   S T R E A K                -->
-<!-- ============================================================ -->
+<!-- Streak -->
 <p align="center">
   <img src="./assets/headers/streak.svg" alt="GitHub Streak" width="900"/>
 </p>
@@ -94,9 +83,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,50:A855F7,100:E9D5FF&height=4&section=header"/>
 </p>
 
-<!-- ============================================================ -->
-<!--                  F E A T U R E D   P R O J E C T S           -->
-<!-- ============================================================ -->
+<!-- Projects -->
 <p align="center">
   <img src="./assets/headers/projects.svg" alt="Featured Projects" width="900"/>
 </p>
@@ -124,21 +111,17 @@
 
 </div>
 
-<!-- ============================================================ -->
-<!--                        C O N N E C T                         -->
-<!-- ============================================================ -->
+<!-- Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario/">
+  <a href="https://www.linkedin.com/in/diego-solorzano-v/">
     <img src="https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://tu-portafolio.com/">
+  <a href="https://diego-portfolio-one.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
-<!-- ============================================================ -->
-<!--                        F O O T E R                           -->
-<!-- ============================================================ -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B5A,100:0B0014&height=140&section=footer"/>
 </p>
