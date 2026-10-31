@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70" role="img" aria-label="GitHub Streak">
+  <defs>
+    <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F3E8FF" stop-opacity="0"/>
+      <stop offset="0.42" stop-color="#F3E8FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F3E8FF" stop-opacity="0.85"/>
+      <stop offset="0.58" stop-color="#F3E8FF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#F3E8FF" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3.6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#6D28D9" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+
+  <text x="450" y="46" text-anchor="middle" textLength="242" lengthAdjust="spacing" font-family="Consolas, 'Courier New', monospace" font-size="30" font-weight="700" fill="url(#text)" filter="url(#glow)" opacity="0.5">GitHub Streak</text>
+  <text x="450" y="46" text-anchor="middle" textLength="242" lengthAdjust="spacing" font-family="Consolas, 'Courier New', monospace" font-size="30" font-weight="700" fill="url(#text)">GitHub Streak</text>
+  <text x="450" y="46" text-anchor="middle" textLength="242" lengthAdjust="spacing" font-family="Consolas, 'Courier New', monospace" font-size="30" font-weight="700" fill="url(#shine)">GitHub Streak</text>
+
+  <rect x="329" y="60" width="242" height="1.6" fill="url(#line)"/>
+
+  <rect x="579" y="26" width="3" height="30" fill="#6D28D9">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

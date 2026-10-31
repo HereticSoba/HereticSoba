@@ -1,147 +1,144 @@
+<!-- ============================================================ -->
+<!--                        H E A D E R                           -->
+<!-- ============================================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=250&section=header&text=HereticSoba&fontSize=60&fontColor=E50914&animation=fadeIn&fontAlignY=40&desc=Code%20•%20Coffee%20•%20Metal&descAlignY=63&descSize=20"/>
+  <img src="./assets/header.svg" alt="HereticSoba — Code • Coffee • Metal" width="100%"/>
 </p>
 
-<h2 align="center">👋 Hi, I'm Diego</h2>
-
-
 <p align="center">
-Passionate about building mobile applications, REST APIs, and scalable backend solutions.
-Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologies.
+  <img src="./assets/headers/hi.svg" alt="Hi, I'm Diego" width="900"/>
 </p>
 
----
+<p align="center">
+  Passionate about building mobile applications, REST APIs, and scalable backend solutions.<br>
+  Currently expanding my skills in Spring Boot, .NET, Docker, and Cloud technologies.
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Fullstack_Developer-7B2FF7?style=for-the-badge&logo=codefactor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-A855F7?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-1A0033?style=for-the-badge&logo=openjdk&logoColor=E9D5FF"/>
+  <img src="https://img.shields.io/badge/.NET-4C1D95?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2D0B5A?style=for-the-badge&logo=docker&logoColor=C084FC"/>
+  <img src="https://img.shields.io/badge/Cloud-8B5CF6?style=for-the-badge&logo=icloud&logoColor=white"/>
+</p>
 
-- 🎓 Software Development Student.
-- 📱 Android Developer with **Kotlin**
-- 🌱 Currently learning **Microservices, Docker, and Cloud Computing**
-- 💡 Interested in **Backend Development** and **Mobile Apps**
-- 🎯 Goal: Become a Full Stack Software Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,50:A855F7,100:E9D5FF&height=4&section=header"/>
+</p>
 
----
+<!-- ============================================================ -->
+<!--                       A B O U T   M E                        -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="./assets/headers/about.svg" alt="About Me" width="900"/>
+</p>
 
-## 🛠 Languages & Tools
+<blockquote>
+  🎓 Software Development Student.<br><br>
+  📱 Android Developer with <b>Kotlin</b><br><br>
+  🌱 Currently learning <b>Microservices, Docker, and Cloud Computing</b><br><br>
+  💡 Interested in <b>Backend Development</b> and <b>Mobile Apps</b><br><br>
+  🎯 Goal: Become a Full Stack Software Engineer
+</blockquote>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E9D5FF,50:A855F7,100:7B2FF7&height=4&section=header"/>
+</p>
+
+<!-- ============================================================ -->
+<!--                  L A N G U A G E S  &  T O O L S             -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="./assets/headers/tools.svg" alt="Languages &amp; Tools" width="900"/>
+</p>
+
+<p align="center">
+  <img src="./assets/languages-tools.svg" alt="Languages and Tools" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,50:A855F7,100:E9D5FF&height=4&section=header"/>
+</p>
+
+<!-- ============================================================ -->
+<!--                 G I T H U B   S T A T I S T I C S            -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="./assets/headers/stats.svg" alt="GitHub Statistics" width="900"/>
+</p>
+
+<p align="center">
+ <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=HereticSoba&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&bg_color=135,0B0014,2D0B5A&title_color=C084FC&text_color=D8B4FE&icon_color=A855F7&border_color=7B2FF7&border_radius=16&hide_border=false" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=HereticSoba&hide_title=false&layout=compact&theme=gotham&count_private=true&bg_color=135,0B0014,2D0B5A&title_color=C084FC&text_color=D8B4FE&border_color=7B2FF7&border_radius=16&hide_border=false" /></picture></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E9D5FF,50:A855F7,100:7B2FF7&height=4&section=header"/>
+</p>
+
+<!-- ============================================================ -->
+<!--                     G I T H U B   S T R E A K                -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="./assets/headers/streak.svg" alt="GitHub Streak" width="900"/>
+</p>
+
+<div align="center">
+
+<a href="https://github.com/HereticSoba?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=HereticSoba&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=135,0B0014,2D0B5A&border=7B2FF7&stroke=A855F7&ring=C084FC&fire=E9D5FF&currStreakNum=F3E8FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=D8B4FE&dates=A78BFA&border_radius=16" width="500" alt="@HereticSoba's github-readme-streak-stats"/></a>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,50:A855F7,100:E9D5FF&height=4&section=header"/>
+</p>
+
+<!-- ============================================================ -->
+<!--                  F E A T U R E D   P R O J E C T S           -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="./assets/headers/projects.svg" alt="Featured Projects" width="900"/>
+</p>
 
 <div align="center">
 
 <table>
-
 <tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/>
-<br>Java
+<td align="center" width="50%">
+🛒 <b>Mesajil Mobile E-Commerce</b>
 </td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/>
-<br>MySQL
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65"/>
-<br>C#
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/>
-<br>GitHub
-</td>
-
-<td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65"/>
-<br>Git
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65"/>
-<br>CSS
-</td>
-
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-  <br>Docker
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/>
-<br>VS Code
+<td align="center" width="50%">
+🌐 <b>Spring Boot REST APIs</b>
 </td>
 </tr>
-
 <tr>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48"/>
-<br>Kotlin
+<td align="center" width="50%">
+🐳 <b>Dockerized Microservices</b>
 </td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48"/>
-<br>Android
+<td align="center" width="50%">
+🗄️ <b>SQL Server & MySQL Database Projects</b>
 </td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48"/>
-<br>Spring
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48"/>
-<br>.NET
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
-<br>SQL Server
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
-<br>Node.js
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48"/>
-<br>Postman
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/>
-<br>Visual Studio
-</td>
-
 </tr>
-
 </table>
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
+<!-- ============================================================ -->
+<!--                        C O N N E C T                         -->
+<!-- ============================================================ -->
 <p align="center">
- <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=HereticSoba&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=HereticSoba&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+  <a href="https://www.linkedin.com/in/tu-usuario/">
+    <img src="https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tu-portafolio.com/">
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
+<!-- ============================================================ -->
+<!--                        F O O T E R                           -->
+<!-- ============================================================ -->
 <p align="center">
-
-<a href="https://github.com/HereticSoba?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=HereticSoba&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@HereticSoba's github-readme-streak-stats"/></a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B5A,100:0B0014&height=140&section=footer"/>
 </p>
-
----
-
-## 💻 Featured Projects
-
-- 🛒 **Mesajil Mobile E-Commerce**
-- 🌐 **Spring Boot REST APIs**
-- 🐳 **Dockerized Microservices**
-- 🗄️ **SQL Server & MySQL Database Projects**
