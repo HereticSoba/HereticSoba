@@ -1,4 +1,4 @@
-<!-- Header -->
+<!-- HEADER -->
 <p align="center">
   <img src="./assets/header.svg" alt="HereticSoba — Code • Coffee • Metal" width="100%"/>
 </p>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Passionate about building mobile applications, REST APIs, and scalable backend solutions.<br>
+  Passionate about building web & mobile applications, REST APIs, and scalable backend solutions.<br>
   Currently expanding my skills in NoSQL, .NET, Azure and Cloud technologies.
 </p>
 
@@ -25,7 +25,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,50:A855F7,100:E9D5FF&height=4&section=header"/>
 </p>
 
-<!-- About me -->
+<!-- ABOUT ME -->
 <p align="center">
   <img src="./assets/headers/about.svg" alt="About Me" width="900"/>
 </p>
@@ -34,7 +34,7 @@
   💻 Fullstack developer.<br><br>
   📱 Android Developer with <b>Kotlin</b><br><br>
   🌱 Currently learning <b>NoSQL, Web Design, and Cloud Computing</b><br><br>
-  💡 Interested in <b>Backend Development</b> and <b>Mobile Apps</b>.<br><br>
+  💡 Interested in <b>backend development</b> and <b>mobile apps</b>.<br><br>
 </blockquote>
 
 <p align="center">
@@ -54,7 +54,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,50:A855F7,100:E9D5FF&height=4&section=header"/>
 </p>
 
-<!-- Statistics -->
+<!-- GITHUB STATISTICS -->
 <p align="center">
   <img src="./assets/headers/stats.svg" alt="GitHub Statistics" width="900"/>
 </p>
@@ -68,7 +68,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E9D5FF,50:A855F7,100:7B2FF7&height=4&section=header"/>
 </p>
 
-<!-- Streak -->
+<!-- GITHUB STREAK -->
 <p align="center">
   <img src="./assets/headers/streak.svg" alt="GitHub Streak" width="900"/>
 </p>
@@ -83,35 +83,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,50:A855F7,100:E9D5FF&height=4&section=header"/>
 </p>
 
-<!-- Projects -->
+<!-- FEATURED PROJECTS -->
 <p align="center">
   <img src="./assets/headers/projects.svg" alt="Featured Projects" width="900"/>
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="./assets/featured-projects.svg" alt="Featured Projects: Mesajil Mobile E-Commerce, Spring Boot REST APIs, Dockerized Microservices, SQL Server &amp; MySQL Database Projects" width="100%"/>
+</p>
 
-<table>
-<tr>
-<td align="center" width="50%">
-🛒 <b>Mesajil Mobile E-Commerce</b>
-</td>
-<td align="center" width="50%">
-🌐 <b>Spring Boot REST APIs</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-🐳 <b>Dockerized Microservices</b>
-</td>
-<td align="center" width="50%">
-🗄️ <b>SQL Server & MySQL Database Projects</b>
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Links -->
+<!-- MY LINKS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-solorzano-v/">
     <img src="https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -121,7 +102,7 @@
   </a>
 </p>
 
-<!-- Footer -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B5A,100:0B0014&height=140&section=footer"/>
 </p>

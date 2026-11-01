@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 430" width="1100" height="430" role="img" aria-label="Featured Projects">
+  <defs>
+    <linearGradient id="cardGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0014"/>
+      <stop offset="100%" stop-color="#2d0b5a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Mesajil Mobile E-Commerce -->
+  <path d="M33,85 L238,85 Q254,85 255.35,100.94 L274.65,329.06 Q276,345 260,345 L55,345 Q39,345 37.65,329.06 L18.35,100.94 Q17,85 33,85 Z" fill="url(#cardGradient)" stroke="#7c3aed" stroke-width="3" stroke-linejoin="round">
+    <animate attributeName="stroke" values="#6e40c9;#a855f7;#6e40c9" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="3;4.5;3" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <text x="146.5" y="207" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20.8">Mesajil Mobile</text>
+  <text x="146.5" y="237" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20.8">E-Commerce</text>
+
+  <!-- GitHub DiscordBot -->
+  <path d="M302,85 L507,85 Q523,85 524.35,100.94 L543.65,329.06 Q545,345 529,345 L324,345 Q308,345 306.65,329.06 L287.35,100.94 Q286,85 302,85 Z" fill="url(#cardGradient)" stroke="#7c3aed" stroke-width="3" stroke-linejoin="round">
+    <animate attributeName="stroke" values="#6e40c9;#a855f7;#6e40c9" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="3;4.5;3" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <text x="415.5" y="207" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20.8">GitHub</text>
+  <text x="415.5" y="237" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20.8">DiscordBot</text>
+
+  <!-- VaultFlow -->
+  <path d="M571,85 L776,85 Q792,85 793.35,100.94 L812.65,329.06 Q814,345 798,345 L593,345 Q577,345 575.65,329.06 L556.35,100.94 Q555,85 571,85 Z" fill="url(#cardGradient)" stroke="#7c3aed" stroke-width="3" stroke-linejoin="round">
+    <animate attributeName="stroke" values="#6e40c9;#a855f7;#6e40c9" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="3;4.5;3" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <text x="684.5" y="207" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20.8">VaultFlow</text>
+  <text x="684.5" y="237" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20.8">Azure Cloud</text>
+
+  <!-- SQL Server & MySQL Database Projects -->
+  <path d="M840,85 L1045,85 Q1061,85 1062.35,100.94 L1081.65,329.06 Q1083,345 1067,345 L862,345 Q846,345 844.65,329.06 L825.35,100.94 Q824,85 840,85 Z" fill="url(#cardGradient)" stroke="#7c3aed" stroke-width="3" stroke-linejoin="round">
+    <animate attributeName="stroke" values="#6e40c9;#a855f7;#6e40c9" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="3;4.5;3" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <text x="953.5" y="180" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20.8">SQL Server &amp;</text>
+  <text x="953.5" y="208" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20.8">MySQL</text>
+  <text x="953.5" y="236" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20.8">Database</text>
+  <text x="953.5" y="264" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20.8">Projects</text>
+</svg>
